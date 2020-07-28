@@ -1,5 +1,8 @@
-## Blogger
+# Blogger
 A blog app where people can post articles from various topics.
+
+## Live Demo
+[blogger live demo link](https://blogger-app-blogger.herokuapp.com/)
 
 ## Built With
 - Ruby
